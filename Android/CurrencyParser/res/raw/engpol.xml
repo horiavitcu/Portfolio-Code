@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+	<automobil>
+	    <english>EngOne</english>
+		<polish>PolOne</polish>
+	</automobil>
+	
+	<automobil>
+	    <english>EngTwo</english>
+		<polish>PolTwo</polish>
+	</automobil>
+	
+	<automobil>
+	    <english>EngThree</english>
+		<polish>PolThree</polish>
+	</automobil>
+	
+	
+	
+</data>
